@@ -14,7 +14,7 @@ app.use(
 const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
-    database: 'mahasiswa',
+    database: 'Mahasiswa',
     password: '123', 
     port: 5432,
 })
